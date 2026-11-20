@@ -1,4 +1,4 @@
-package io.cablebk.creditreminder.ui.theme
+package io.github.cablebk.creditreminder.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
