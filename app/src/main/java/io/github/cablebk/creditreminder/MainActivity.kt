@@ -1,4 +1,4 @@
-package io.github.cablebk.creditreminder.ui
+package io.github.cablebk.creditreminder
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
