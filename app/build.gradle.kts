@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "io.cablebk.creditreminder"
+    namespace = "io.github.cablebk.creditreminder"
     compileSdk {
         version = release(36)
     }
